@@ -3,7 +3,7 @@ display_name: Docker with Cursor IDE & Node.js
 description: Development environment with Docker, Cursor IDE, and Node.js for JavaScript/TypeScript projects
 icon: ../../../site/static/icon/docker.png
 maintainer_github: DevelopmentCats
-verified: true
+verified: false
 tags: [docker, cursor, nodejs]
 ---
 
