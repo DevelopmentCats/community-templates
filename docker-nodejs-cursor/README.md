@@ -4,7 +4,7 @@ description: Development environment with Docker, Cursor IDE, and Node.js for Ja
 icon: ../../../site/static/icon/docker.png
 maintainer_github: coder
 verified: true
-tags: [docker, container, cursor, nodejs, javascript]
+tags: [docker, cursor, nodejs]
 ---
 
 # Remote Development with Cursor IDE and Node.js on Docker
