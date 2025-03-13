@@ -2,7 +2,7 @@
 display_name: Docker with Cursor IDE & Node.js
 description: Development environment with Docker, Cursor IDE, and Node.js for JavaScript/TypeScript projects
 icon: ../../../site/static/icon/docker.png
-maintainer_github: coder
+maintainer_github: DevelopmentCats
 verified: true
 tags: [docker, cursor, nodejs]
 ---
@@ -67,5 +67,3 @@ When creating a workspace, you'll be prompted for a Git repository URL. The repo
 Edit the `Dockerfile` and run `coder templates push` to update workspaces.
 
 ---
-
-Contributor: [Development Cats](https://github.com/DevelopmentCats)
